@@ -1,4 +1,4 @@
-# turma1-C
+# turma-1c
 ## Repositório Arquivos aulas HTML e CSS
 # Arquivos das aulas de pensamento computacional 
 ### Linguagem HTML
