@@ -7,10 +7,7 @@
     padding: 20px;
 }
 
-h1 {
-    text-align: center;
-}
-h2 {
+.título-centralizado {
     text-align: center;
 }
 
