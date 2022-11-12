@@ -7,6 +7,10 @@
     padding: 20px;
 }
 
+.titulo-principal {
+    padding-left: 20px;
+}
+
 .título-centralizado {
     text-align: center;
 }
